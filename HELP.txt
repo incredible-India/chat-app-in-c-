@@ -1,0 +1,7 @@
+1: This IS the secure App ,u can use
+2:this is made for project purpose
+3:Any kind of problem if you Feel, You can call
+4:in this File handling is used your data may be copied
+5:but before this we will ask for your Permission
+-------------------------------------------------------------
+press any Key to <-- Go back;
